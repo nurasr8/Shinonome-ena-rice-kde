@@ -11,9 +11,14 @@
 
 Application menu icon (also you need to place "simple separator" between launcher and icon bar)
 
-Wallpaper
+wallpaper in asset/wallpaper.jpg
+
+andromeda launcher icon in asset/icon.png
 
 ## Window decoration configuration
+
+![1](media/Screenshot_20260715_211457.png)
+![2](media/Screenshot_20260715_211520.png)
 
 >[!NOTE]
 >Color scheme, icon set and pointer need to be installed via "install from file..." option in KDE apperance settings
