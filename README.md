@@ -21,4 +21,7 @@ andromeda launcher icon in asset/icon.png
 ![2](media/Screenshot_20260715_211520.png)
 
 >[!NOTE]
+>Color scheme, icon set and pointer located in "asset" folder of this repo
+
+>[!NOTE]
 >Color scheme, icon set and pointer need to be installed via "install from file..." option in KDE apperance settings
